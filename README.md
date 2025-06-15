@@ -32,7 +32,7 @@ I'm a final-year B.Tech Computer Science student at IIIT Dharwad (CPI: 8.80), pa
 <a href="https://github.com/STUDYHUB02/StockAlysis" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=StockAlysis&theme=radical" /></a>
 ---
 ## 🏆 Certifications & Awards
-- 🥇 **Karnataka State Rank Holder**, 12th Grade (2021)  - 🎓 **JEE Mains**: 95.9 percentile (2022)  - 📜 Qualified **JEE Advanced** (2022)  
+- 🥇 **Karnataka State Rank Holder**, 12th Grade (2021)  - 🎓 **JEE Mains**: 95.9 percentile (2022)  - 📜 Cleared **JEE Advanced** (2022)  
 ---
 ## 📫 Contact & Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrashabha-nilajagi/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrashabhanilajagi1@gmail.com)
