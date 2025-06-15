@@ -4,13 +4,13 @@
 ---
 ## 🚀 About Me
 I'm a final-year B.Tech Computer Science student at IIIT Dharwad (CPI: 8.80), passionate about building full-stack applications and integrating AI/ML & blockchain solutions. I enjoy problem-solving, collaborating with cross-functional teams, and continuously learning new technologies.
-- 🔭 **Currently working on:** AEMS, an AI/LLM-powered exam management system.  - 🌱 **Exploring:** Smart contract security, advanced blockchain frameworks (Hyperledger, Solidity).  - 💬 **Ask me about:** Django, React, Node.js, OpenCV, ML pipelines, Solidity, GitHub Actions.  - 👯 **Open to collaborate on:** Web development, AI/ML, blockchain projects.  - ⚡ **Fun fact:** I love graph theory puzzles and competed in state-level coding & typing contests.  
+- 🔭 **Currently working on:** AEMS, an AI/LLM-powered exam management system.  - 🌱 **Exploring:** Smart contract security, advanced blockchain frameworks (Hyperledger, Solidity).  - 💬 **Ask me about:** Django, React, Node.js, OpenCV, ML pipelines, Solidity, GitHub Actions.  - 👯 **Open to collaborate on:** Web development, AI/ML, blockchain projects.
 ---
 ## 📚 Education
 
 | Degree                       | Institution                                  | Period              | Score/CPI |
 | ---------------------------- | -------------------------------------------- | ------------------- | --------- |
-| **B.Tech, Computer Science** | IIIT Dharwad                                 | Nov 2022 – Jul 2026 | 8.80 CPI  |
+| **B.Tech, Computer Science** | IIIT Dharwad                                 | Nov 2022 – Jul 2026 | 8.80      |
 | **PUC (Science)**            | SGV’s Mahesh PU College, Belagavi            | Jun 2019 – Jul 2021 | 98.16%    |
 | **High School**              | Shri Mahaveer Primary & High School, Hukkeri | Jun 2009 – Apr 2019 | 95.84%    |
 
@@ -20,7 +20,7 @@ I'm a final-year B.Tech Computer Science student at IIIT Dharwad (CPI: 8.80), pa
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white)
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=github-actions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230DB7ED.svg?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=github-actions&logoColor=white)
 ### AI/ML & Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%2320232A.svg?logo=pandas&logoColor=white)
 ### Blockchain & DevOps
