@@ -3,19 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vrashabha-nilajagi/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vrashabhanilajagi1@gmail.com) 
 ---
 ## 🚀 About Me
-I'm a final-year B.Tech Computer Science student at IIIT Dharwad (CPI: 8.80), passionate about building full-stack applications and integrating AI/ML & blockchain solutions. I enjoy problem-solving, collaborating with cross-functional teams, and continuously learning new technologies.
+I'm a final-year B.Tech Computer Science student at IIIT Dharwad, passionate about building full-stack applications and integrating AI/ML & blockchain solutions. I enjoy problem-solving, collaborating with cross-functional teams, and continuously learning new technologies.
 - 🔭 **Currently working on:** AEMS, an AI/LLM-powered exam management system.  - 🌱 **Exploring:** Smart contract security, advanced blockchain frameworks (Hyperledger, Solidity).  - 💬 **Ask me about:** Django, React, Node.js, OpenCV, ML pipelines, Solidity, GitHub Actions.  - 👯 **Open to collaborate on:** Web development, AI/ML, blockchain projects.
 ---
-## 📚 Education
 
-| Degree                       | Institution                                  | Period              | Score/CPI |
-| ---------------------------- | -------------------------------------------- | ------------------- | --------- |
-| **B.Tech, Computer Science** | IIIT Dharwad                                 | Nov 2022 – Jul 2026 | 8.80      |
-| **PUC (Science)**            | SGV’s Mahesh PU College, Belagavi            | Jun 2019 – Jul 2021 | 98.16%    |
-| **High School**              | Shri Mahaveer Primary & High School, Hukkeri | Jun 2009 – Apr 2019 | 95.84%    |
-
----
----
 ## 💻 Tech Stack & Skills
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white)
@@ -30,9 +21,6 @@ I'm a final-year B.Tech Computer Science student at IIIT Dharwad (CPI: 8.80), pa
 <a href="https://github.com/vrashabha13/AEMS" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrashabha13&repo=AEMS&theme=radical" /></a>
 <a href="https://github.com/STUDYHUB02/CertiChain" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=CertiChain&theme=radical" /></a>
 <a href="https://github.com/STUDYHUB02/StockAlysis" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=StockAlysis&theme=radical" /></a>
----
-## 🏆 Certifications & Awards
-- 🥇 **Karnataka State Rank Holder**, 12th Grade (2021)  - 🎓 **JEE Mains**: 95.9 percentile (2022)  - 📜 Cleared **JEE Advanced** (2022)  
 ---
 ## 📫 Contact & Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrashabha-nilajagi/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrashabhanilajagi1@gmail.com)
