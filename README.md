@@ -21,7 +21,7 @@ I'm a final-year B.Tech Computer Science student at IIIT Dharwad, passionate abo
 <a href="https://github.com/vrashabha13/AEMS" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrashabha13&repo=AEMS&theme=radical" /></a>
 <a href="https://github.com/STUDYHUB02/CertiChain" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=CertiChain&theme=radical" /></a>
 <a href="https://github.com/STUDYHUB02/StockAlysis" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=StockAlysis&theme=radical" /></a>
-<a href="https://github.com/STUDYHUB02/ParkAssist_AI" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=StockAlysis&theme=radical" /></a>
+<a href="https://github.com/STUDYHUB02/ParkAssist_AI" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=ParkAssist_AI&theme=radical" /></a>
 ---
 ## 📫 Contact & Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrashabha-nilajagi/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrashabhanilajagi1@gmail.com)
