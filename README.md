@@ -18,10 +18,10 @@ I'm a final-year B.Tech Computer Science student at IIIT Dharwad, passionate abo
 ![Solidity](https://img.shields.io/badge/Solidity-%236A5CFF.svg?logo=solidity&logoColor=white) ![Hyperledger](https://img.shields.io/badge/Hyperledger-%23007FBF.svg?logo=hyperledger&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-%23EAB839.svg?logo=hardhat&logoColor=black) ![Web3.js](https://img.shields.io/badge/Web3.js-%236F2F88.svg?logo=web3-dot-js&logoColor=white)
 ---
 ## 🚀 Featured Projects
-<a href="https://github.com/vrashabha13/AEMS" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrashabha13&repo=AEMS&theme=radical" /></a>
-<a href="https://github.com/STUDYHUB02/CertiChain" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=CertiChain&theme=radical" /></a>
-<a href="https://github.com/STUDYHUB02/StockAlysis" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=StockAlysis&theme=radical" /></a>
-<a href="https://github.com/STUDYHUB02/ParkAssist_AI" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=ParkAssist_AI&theme=radical" /></a>
+<a href="https://github.com/vrashabha13/AEMS" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrashabha13&repo=AEMS&theme=highcontrast" /></a>
+<a href="https://github.com/STUDYHUB02/CertiChain" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=CertiChain&theme=highcontrast" /></a>
+<a href="https://github.com/STUDYHUB02/StockAlysis" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=StockAlysis&theme=highcontrast" /></a>
+<a href="https://github.com/STUDYHUB02/ParkAssist_AI" target="_blank">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STUDYHUB02&repo=ParkAssist_AI&theme=highcontrast" /></a>
 ---
 ## 📫 Contact & Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrashabha-nilajagi/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vrashabhanilajagi1@gmail.com)
